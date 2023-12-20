@@ -1,4 +1,4 @@
-<h1 align="center">🚀@B.Click - PAGE - Bonfim Araújo🚀</h1>
+<h1 align="center">🚀 DevLinks - @B.Click - Bonfim Araújo 🚀</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,17 +21,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Html]
 - [Css]
 - [JavaScript]
-- [Json]
 
 ## 💻 Projeto
 
-Esse é o projeto de minha Página Web, onde meus clientes e colaboradores podem saber mais sobre meu serviços.
+Esse é o projeto de uma página de links interativos, onde meus clientes e colaboradores podem saber mais sobre meu serviços e ver meus portfólio e projetos.
 
 
 ## ⚡️ Saiba mais
 
 - Website oficial: [https://araujobonfim18.github.io/-B.Click_85/](https://araujobonfim18.github.io/-B.Click_85/)
 - instagram: [https://www.instagram.com/bclick85/](https://www.instagram.com/bclick85/)
+- instagram: [https://www.instagram.com/bclick85/](https://www.instagram.com/bonfimaraujo18/)
 - Documentação: [https://github.com/Araujobonfim18/BCLick-WebSite](https://github.com/Araujobonfim18/BCLick-WebSite)
 - GitHub: [https://github.com/Araujobonfim18](https://github.com/Araujobonfim18)
 
