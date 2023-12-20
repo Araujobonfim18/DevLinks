@@ -31,7 +31,7 @@ Esse é o projeto de uma página de links interativos, onde meus clientes e cola
 
 - Website oficial: [https://araujobonfim18.github.io/-B.Click_85/](https://araujobonfim18.github.io/-B.Click_85/)
 - instagram: [https://www.instagram.com/bclick85/](https://www.instagram.com/bclick85/)
-- instagram: [https://www.instagram.com/bclick85/](https://www.instagram.com/bonfimaraujo18/)
+- instagram: [https://www.instagram.com/bonfimaraujo18/](https://www.instagram.com/bonfimaraujo18/)
 - Documentação: [https://github.com/Araujobonfim18/BCLick-WebSite](https://github.com/Araujobonfim18/BCLick-WebSite)
 - GitHub: [https://github.com/Araujobonfim18](https://github.com/Araujobonfim18)
 
