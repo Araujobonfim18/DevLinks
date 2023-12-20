@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/static/v1?label=B&message=CLICK&color=8257E5&labelColor=000000" alt="B.CLICK" />
 </p>
 
-![Preview](https://github.com/Araujobonfim18/-B.Click_85/blob/main/previ_BCLICK.png?raw=true)
+![Preview](https://github.com/Araujobonfim18/DevLinks/blob/main/Preview_DevLinks.png?raw=true)
 
 ## ✨ Tecnologias
 
@@ -40,7 +40,6 @@ Esse é o projeto de uma página de links interativos, onde meus clientes e cola
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
 Feito by @B.Click - Bonfim Araújo 👋🏻 [Venha crescer junto!](https://wa.link/d522sq)
 
 <!--START_SECTION:footer-->
